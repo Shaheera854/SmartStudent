@@ -72,9 +72,13 @@ Includes CRUD operations, search & filter, CSV export, and real-time statistics 
 
 
 * Admin Panel
+<img width="1906" height="1013" alt="image" src="https://github.com/user-attachments/assets/b8b3ca85-958e-45a4-95a0-8016965a2b84" />
 
 
-* Add/Edit Student<br><br>
+* Add/Edit Student
+<img width="376" height="349" alt="image" src="https://github.com/user-attachments/assets/659e20d3-69f6-408d-8195-b43b849e327a" />
+
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/114f769b-0214-4e03-91c4-fc4ebb7e9f80" />
 
 
 ## 📂 Project Structure
